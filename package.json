@@ -1,0 +1,36 @@
+{
+  "name": "nabeghmuhraportfolio1758807709268",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "homepage": "https://Nmuhra.github.io/nabeghmuhraportfolio1758807709268",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.8",
+    "@react-three/fiber": "^9.1.2",
+    "@react-three/postprocessing": "^3.0.4",
+    "@tailwindcss/vite": "^4.1.6",
+    "framer-motion": "^12.12.1",
+    "lucide-react": "^0.511.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.1",
+    "react-scroll": "^1.9.3",
+    "swiper": "^11.2.10",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "tailwindcss": "^4.1.6",
+    "vite": "^6.3.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
